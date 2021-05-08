@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211028707082",
+    "project_id": "android-assessment-1",
+    "storage_bucket": "android-assessment-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211028707082:android:ea4381f78d7fa8ea2f1cf3",
+        "android_client_info": {
+          "package_name": "com.akshatvg.assessment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211028707082-un9jdqsv3tonaqa85bl0i0bn2cnmcj88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJx9ccfvBG71WPPFnxum3S1ku21XjmbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211028707082-un9jdqsv3tonaqa85bl0i0bn2cnmcj88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
