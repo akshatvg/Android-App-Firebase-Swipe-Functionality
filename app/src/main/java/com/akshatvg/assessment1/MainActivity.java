@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
     };
 
     void getData(){
-        FirebaseDatabase database = FirebaseDatabase.getInstance("https://myproject-22eef-default-rtdb.asia-southeast1.firebasedatabase.app/");
+        FirebaseDatabase database = FirebaseDatabase.getInstance("https://android-assessment-1-default-rtdb.asia-southeast1.firebasedatabase.app/");
         DatabaseReference ref = database.getReference();
         Log.d("Here", database.toString());
         ref.child("Strings").addValueEventListener(new ValueEventListener() {
